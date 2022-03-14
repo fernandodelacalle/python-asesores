@@ -32,7 +32,7 @@
 ### Módulo 4: Aplicaciones específicas en mercados financieros.
 * [4.1.](module_4/4_01.ipynb) Obtención de datos financieros.
 * [4.2.](module_4/4_02.ipynb) Simulación para medición de riesgos (VaR).
-* [4.3.](module_4/4_03.ipynb) Optimización de carteras I.
+* [4.3.](module_4/4_03.ipynb) Optimización de carteras.
 
 
 ### Soluciones Ejercicos.
