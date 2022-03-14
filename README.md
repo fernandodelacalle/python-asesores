@@ -1,6 +1,6 @@
 # Introducción a Python Aplicado a Finanzas Cuantitativas.
-## Syllabus
 
+## Syllabus
 ### Módulo 1: Fundamentos de programación.
 * [1.0.](module_1/1_00.ipynb) Instalación.
 * [1.1.](module_1/1_01.ipynb) Jupyter Notebooks.
@@ -20,6 +20,8 @@
 * [2.4.](module_2/2_04.ipynb) Introducción a Pandas III.
 * [2.5.](module_2/2_05.ipynb) Visualización de datos.
 * [2.6.](module_2/2_06.ipynb) Pandas: Adquisición y guardado de datos.
+* [2.7.](module_2/2_07.ipynb) Pandas: Limpieza y preparación de datos.
+* [2.8.](module_2/2_07.ipynb) Operaciones de combinar, juntar y agrupar.
 
 
 ### Módulo 3: Tratamiento de series temporales.
@@ -31,13 +33,6 @@
 * [4.1.](module_4/4_01.ipynb) Obtención de datos financieros.
 * [4.2.](module_4/4_02.ipynb) Simulación para medición de riesgos (VaR).
 * [4.3.](module_4/4_03.ipynb) Optimización de carteras I.
-* [4.4.](module_4/4_04.ipynb) Optimización de carteras II (opcional).
-* [4.5.](module_4/4_05.ipynb) Valoración de opciones financieras (opcional).
-
-
-### Módulo 5: Tratamiento de datos Avanzado (opcional).
-* [5.1.](module_5/5_01.ipynb) Limpieza y preparación de datos.
-* [5.2.](module_5/5_02.ipynb) Operaciones de combinar, juntar y agrupar.
 
 
 ### Soluciones Ejercicos.
@@ -47,5 +42,3 @@
 * [4.1.Sol](ejercicios_soluciones/4_01_Solution.ipynb) Obtención de datos financieros  (Solución).
 * [4.2.Sol](ejercicios_soluciones/4_02_Solution.ipynb) Simulación para medición de riesgos (VaR) (Solución).
 * [4.3.Sol](ejercicios_soluciones/4_03_Solution.ipynb) Optimización de carteras I (Solución).
-* [4.5.Sol](ejercicios_soluciones/4_05_Solution.ipynb)  Valoración de opciones financieras (Solución).
-* [5.Sol](ejercicios_soluciones/soluciones_modulo_5.ipynb) Soluciones Modulo 5.
