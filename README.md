@@ -14,7 +14,9 @@
 
 
 ### Módulo 2: Introducción a las librerías Numpy, Pandas y Matplotlib.
-* [2.1.](module_2/2_01.ipynb) Introducción a NumPy
+* [2.1.1](module_2_numpy/2_01.ipynb) Introducción a NumPy I.
+* [2.1.2](module_2_numpy/2_02.ipynb) Introducción a NumPy II.
+* [2.1.3](module_2_numpy/2_03.ipynb) Introducción a NumPy III.
 * [2.2.](module_2/2_02.ipynb) Introducción a Pandas I.
 * [2.3.](module_2/2_03.ipynb) Introducción a Pandas II.
 * [2.4.](module_2/2_04.ipynb) Introducción a Pandas III.
